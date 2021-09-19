@@ -1,7 +1,8 @@
 # cultApp
 Project: Django App
 
-Technologies Used: Python,Django,REST API
+Technologies Used: Python,Django,REST API.
+
 Tools Used:Pycharm, Postman
 
 Description:In this project involves, 3 modules :
